@@ -1,6 +1,7 @@
 ### Installation
 
 Clone the repository
+Navigate into the clone project
 Start the PHP development server:
 
 ```bash
